@@ -22,4 +22,4 @@
 
 - What are some other possible tables and/or graphs that we could create?
 
-![image](./image.png)
+![image](./Images/image.png)
